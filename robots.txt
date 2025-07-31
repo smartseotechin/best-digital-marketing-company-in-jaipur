@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://smartseotechin.github.io/best-digital-marketing-company-in-jaipur/sitemap.xml
+Sitemap: /sitemap.xml
